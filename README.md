@@ -172,5 +172,9 @@ urlpatterns = [
 
 ![alt text](<Screenshot (175).png>)
 
+## OUTPUT:
+
+![alt text](<Screenshot (198).png>)
+
 ## RESULT:
 The program for performing server side processing is completed successfully.
